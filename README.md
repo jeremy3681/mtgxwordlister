@@ -1,0 +1,2 @@
+# mtgxwordlister
+# mtgxwordlister
